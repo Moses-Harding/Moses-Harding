@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Moses-Harding
 - 👀 I’m interested in iOS development.
-- 🌱 I’m currently learning reactive programming with Swift.
-- 💞️ I’m looking to collaborate on UIKit based frameworks.
+- 🌱 I’m currently learning SwiftUI.
 
 <!---
 Moses-Harding/Moses-Harding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
